@@ -6,7 +6,7 @@
 |---|---|
 | Rocket specifications | |
 | Rocket measured data | |
-| Rocket photos | |
+| Rocket photos | https://photos.app.goo.gl/jmtvWTYFcyfQ43f86|
 
 ## Airframe
 | Component         | Link  | 
