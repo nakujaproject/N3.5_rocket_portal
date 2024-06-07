@@ -2,9 +2,24 @@
 
 
 ## Specification
+
+| Rocket | N-3.5  <br>(Alpha, Beta, Charlie, Delta) |
+| --- | --- |
+| Airframe material | Aluminum |
+| Length | 172 cm |
+| Internal diameter | 76 mm |
+| External diameter | 78.6 mm |
+| Dry mass | 6.655 kg |
+| Total mass | 8.747 kg |
+| Simulated apogee | 1,650 m |
+| Propellant | KNSB |
+| Simulated total impulse | 2,976 \[N•s\] (L1949 motor) |
+| Total impulse from the static test | 2,773 \[N•s\] (L1305 motor) |
+
+## General information
+
 | Component         | Link  | 
 |---|---|
-| Rocket specifications | |
 | Rocket measured data | |
 | Rocket photos | https://photos.app.goo.gl/jmtvWTYFcyfQ43f86|
 
